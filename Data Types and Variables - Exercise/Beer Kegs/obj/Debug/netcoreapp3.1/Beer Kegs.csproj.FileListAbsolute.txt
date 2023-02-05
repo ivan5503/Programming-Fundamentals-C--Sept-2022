@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.exe
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.genruntimeconfig.cache

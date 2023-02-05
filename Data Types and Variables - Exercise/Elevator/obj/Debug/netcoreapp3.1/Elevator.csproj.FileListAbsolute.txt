@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.AssemblyReference.cache

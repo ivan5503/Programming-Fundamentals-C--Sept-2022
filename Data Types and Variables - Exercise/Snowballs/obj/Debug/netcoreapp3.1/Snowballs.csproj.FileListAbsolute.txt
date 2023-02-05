@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.exe
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.dll
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.pdb
+C:\Users\IVO\source\repos\Data Types and Variables  Exercise\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.genruntimeconfig.cache
