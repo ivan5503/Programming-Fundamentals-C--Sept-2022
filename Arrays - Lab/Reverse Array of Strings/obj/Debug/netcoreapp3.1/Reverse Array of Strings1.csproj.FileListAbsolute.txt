@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.exe
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.deps.json
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.dll
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\bin\Debug\netcoreapp3.1\Reverse Array of Strings1.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.dll
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Reverse Array of Strings1\obj\Debug\netcoreapp3.1\Reverse Array of Strings1.genruntimeconfig.cache
