@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.exe
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.deps.json
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.dll
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\bin\Debug\netcoreapp3.1\Train1.pdb
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.dll
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.pdb
+C:\Users\IVO\source\repos\Exercise Lists1\Train1\obj\Debug\netcoreapp3.1\Train1.genruntimeconfig.cache

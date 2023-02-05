@@ -1,0 +1,13 @@
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.exe
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.deps.json
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.dll
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\bin\Debug\netcoreapp3.1\Pokemon Don't Go1.pdb
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.dll
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.pdb
+C:\Users\IVO\source\repos\Exercise Lists1\Pokemon Don't Go1\obj\Debug\netcoreapp3.1\Pokemon Don't Go1.genruntimeconfig.cache
