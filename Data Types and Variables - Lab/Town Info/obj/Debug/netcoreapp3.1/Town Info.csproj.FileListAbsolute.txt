@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.exe
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\bin\Debug\netcoreapp3.1\Town Info.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Town Info\obj\Debug\netcoreapp3.1\Town Info.genruntimeconfig.cache

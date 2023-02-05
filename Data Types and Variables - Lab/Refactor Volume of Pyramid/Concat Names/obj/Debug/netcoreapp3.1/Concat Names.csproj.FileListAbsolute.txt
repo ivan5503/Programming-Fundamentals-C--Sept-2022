@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.exe
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\bin\Debug\netcoreapp3.1\Concat Names.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Concat Names\obj\Debug\netcoreapp3.1\Concat Names.genruntimeconfig.cache

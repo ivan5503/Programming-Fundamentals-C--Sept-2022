@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.exe
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\bin\Debug\netcoreapp3.1\Refactor Special Numbers.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Refactor Special Numbers\obj\Debug\netcoreapp3.1\Refactor Special Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.exe
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.genruntimeconfig.cache
