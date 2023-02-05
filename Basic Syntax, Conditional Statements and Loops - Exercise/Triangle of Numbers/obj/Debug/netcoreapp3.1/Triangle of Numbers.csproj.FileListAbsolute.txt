@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.exe
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.deps.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\bin\Debug\netcoreapp3.1\Triangle of Numbers.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Triangle of Numbers\obj\Debug\netcoreapp3.1\Triangle of Numbers.genruntimeconfig.cache

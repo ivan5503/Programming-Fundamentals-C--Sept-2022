@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.exe
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.deps.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\bin\Debug\netcoreapp3.1\Vending Machine.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vending Machine\obj\Debug\netcoreapp3.1\Vending Machine.genruntimeconfig.cache

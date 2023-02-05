@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

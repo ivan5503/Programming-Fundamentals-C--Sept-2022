@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\IVO\source\repos\Exercise Basic Syntax Conditional Statements and Loops\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache
