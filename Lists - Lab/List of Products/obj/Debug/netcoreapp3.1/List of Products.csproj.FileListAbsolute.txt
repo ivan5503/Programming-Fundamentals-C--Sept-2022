@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.exe
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.deps.json
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.json
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\IVO\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\IVO\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.genruntimeconfig.cache
