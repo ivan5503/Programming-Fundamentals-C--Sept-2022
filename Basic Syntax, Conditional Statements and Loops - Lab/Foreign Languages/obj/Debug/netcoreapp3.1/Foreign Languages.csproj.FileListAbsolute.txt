@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.exe
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.deps.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.genruntimeconfig.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.AssemblyReference.cache

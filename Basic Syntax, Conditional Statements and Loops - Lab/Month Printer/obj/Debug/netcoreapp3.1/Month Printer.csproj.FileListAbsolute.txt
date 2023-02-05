@@ -1,0 +1,13 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.exe
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.deps.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.genruntimeconfig.cache

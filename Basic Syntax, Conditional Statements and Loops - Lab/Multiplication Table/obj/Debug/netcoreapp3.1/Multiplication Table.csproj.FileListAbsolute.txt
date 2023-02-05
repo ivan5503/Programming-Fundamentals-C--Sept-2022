@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

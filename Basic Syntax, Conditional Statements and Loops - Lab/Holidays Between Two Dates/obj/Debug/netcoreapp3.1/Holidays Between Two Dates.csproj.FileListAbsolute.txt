@@ -1,0 +1,5 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csproj.CoreCompileInputs.cache

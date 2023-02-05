@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.exe
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.deps.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.1\Even Number.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.1\Even Number.genruntimeconfig.cache

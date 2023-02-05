@@ -1,0 +1,13 @@
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.exe
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.deps.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\bin\Debug\netcoreapp3.1\Theatre Promotions.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.dll
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.pdb
+C:\Users\IVO\source\repos\Lab Intro and Basic Syntax\Theatre Promotions\obj\Debug\netcoreapp3.1\Theatre Promotions.genruntimeconfig.cache
