@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.exe
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.deps.json
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.dll
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\bin\Debug\netcoreapp3.1\Greater of Two Values.pdb
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.dll
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.pdb
+C:\Users\IVO\source\repos\Lab Methods1\Greater of Two Values\obj\Debug\netcoreapp3.1\Greater of Two Values.genruntimeconfig.cache

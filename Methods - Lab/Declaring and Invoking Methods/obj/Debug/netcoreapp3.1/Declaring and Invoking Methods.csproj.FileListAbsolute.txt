@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.exe
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.deps.json
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.dll
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\bin\Debug\netcoreapp3.1\Declaring and Invoking Methods.pdb
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.dll
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.pdb
+C:\Users\IVO\source\repos\Lab Methods1\Declaring and Invoking Methods\obj\Debug\netcoreapp3.1\Declaring and Invoking Methods.genruntimeconfig.cache

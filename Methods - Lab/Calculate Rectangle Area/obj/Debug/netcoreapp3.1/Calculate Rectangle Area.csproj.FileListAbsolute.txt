@@ -1,0 +1,5 @@
+C:\Users\IVO\source\repos\Lab Methods1\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Methods1\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Methods1\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Methods1\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Methods1\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
