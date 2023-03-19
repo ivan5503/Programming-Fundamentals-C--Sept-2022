@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.exe
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.deps.json
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.dll
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\bin\Debug\netcoreapp3.1\Even and Odd Substraction.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.dll
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Even and Odd Substraction\obj\Debug\netcoreapp3.1\Even and Odd Substraction.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.exe
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.deps.json
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.runtimeconfig.json
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.dll
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\bin\Debug\netcoreapp3.1\Condense Array to Number_.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.dll
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.pdb
+C:\Users\IVO\source\repos\Lab Arrays\Condense Array to Number_\obj\Debug\netcoreapp3.1\Condense Array to Number_.genruntimeconfig.cache
