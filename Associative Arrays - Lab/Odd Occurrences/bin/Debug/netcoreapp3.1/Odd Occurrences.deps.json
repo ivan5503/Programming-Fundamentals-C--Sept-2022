@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Center Point/1.0.0": {
+      "Odd Occurrences/1.0.0": {
         "runtime": {
-          "Center Point.dll": {}
+          "Odd Occurrences.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Center Point/1.0.0": {
+    "Odd Occurrences/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
