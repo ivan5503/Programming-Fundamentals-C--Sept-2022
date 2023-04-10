@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.exe
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.deps.json
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.runtimeconfig.json
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.dll
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\bin\Debug\netcoreapp3.1\Match Phone Number_.pdb
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.dll
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.pdb
+C:\Users\IVO\source\repos\Regular Expressions - Lab\Match Phone Number_\obj\Debug\netcoreapp3.1\Match Phone Number_.genruntimeconfig.cache
