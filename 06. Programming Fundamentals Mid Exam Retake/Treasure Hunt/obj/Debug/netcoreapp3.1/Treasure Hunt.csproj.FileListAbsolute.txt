@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.exe
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.deps.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.runtimeconfig.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.dll
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\bin\Debug\netcoreapp3.1\Treasure Hunt.pdb
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.dll
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.pdb
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Treasure Hunt\obj\Debug\netcoreapp3.1\Treasure Hunt.genruntimeconfig.cache

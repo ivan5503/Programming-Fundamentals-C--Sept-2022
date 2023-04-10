@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.exe
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.deps.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.runtimeconfig.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.dll
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\bin\Debug\netcoreapp3.1\Black Flag.pdb
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.dll
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.pdb
+C:\Users\IVO\source\repos\Programming Fundamentals Mid Exam\Black Flag\obj\Debug\netcoreapp3.1\Black Flag.genruntimeconfig.cache
