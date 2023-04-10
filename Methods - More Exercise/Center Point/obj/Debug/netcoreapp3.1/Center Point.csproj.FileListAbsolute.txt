@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.exe
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.deps.json
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\bin\Debug\netcoreapp3.1\Center Point.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Center Point\obj\Debug\netcoreapp3.1\Center Point.genruntimeconfig.cache

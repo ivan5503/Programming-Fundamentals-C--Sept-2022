@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.exe
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.deps.json
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\bin\Debug\netcoreapp3.1\Longer Line.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Longer Line\obj\Debug\netcoreapp3.1\Longer Line.genruntimeconfig.cache

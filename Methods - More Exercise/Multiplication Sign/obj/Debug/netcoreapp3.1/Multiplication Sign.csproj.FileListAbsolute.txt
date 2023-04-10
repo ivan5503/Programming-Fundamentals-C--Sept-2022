@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.exe
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.deps.json
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\bin\Debug\netcoreapp3.1\Multiplication Sign.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.dll
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.pdb
+C:\Users\IVO\source\repos\More Exercise Methods\Multiplication Sign\obj\Debug\netcoreapp3.1\Multiplication Sign.genruntimeconfig.cache
