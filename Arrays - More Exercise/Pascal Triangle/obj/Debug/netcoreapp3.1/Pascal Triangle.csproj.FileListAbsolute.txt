@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.exe
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.deps.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.genruntimeconfig.cache

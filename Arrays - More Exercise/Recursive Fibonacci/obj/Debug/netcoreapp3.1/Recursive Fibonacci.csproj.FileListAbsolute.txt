@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.exe
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.deps.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\bin\Debug\netcoreapp3.1\Recursive Fibonacci.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Recursive Fibonacci\obj\Debug\netcoreapp3.1\Recursive Fibonacci.genruntimeconfig.cache

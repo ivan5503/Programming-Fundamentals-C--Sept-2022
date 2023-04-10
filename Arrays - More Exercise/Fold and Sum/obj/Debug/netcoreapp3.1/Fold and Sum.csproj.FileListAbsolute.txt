@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.exe
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.deps.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\IVO\source\repos\More Exercises Arrays\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.genruntimeconfig.cache
