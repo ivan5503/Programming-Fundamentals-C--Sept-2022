@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.exe
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.deps.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.exe
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.deps.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.genruntimeconfig.cache

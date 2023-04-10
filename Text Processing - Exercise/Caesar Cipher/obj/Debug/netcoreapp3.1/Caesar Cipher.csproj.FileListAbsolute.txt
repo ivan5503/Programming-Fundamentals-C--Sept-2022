@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.exe
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.deps.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.dll
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.pdb
+C:\Users\IVO\source\repos\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.genruntimeconfig.cache
