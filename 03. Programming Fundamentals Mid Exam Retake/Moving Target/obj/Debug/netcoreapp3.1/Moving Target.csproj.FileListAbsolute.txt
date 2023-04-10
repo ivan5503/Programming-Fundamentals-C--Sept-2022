@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.exe
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.deps.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfo.cs
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.exe
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.deps.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfo.cs
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.exe
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.deps.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.runtimeconfig.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.AssemblyInfo.cs
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.dll
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.pdb
+C:\Users\IVO\source\repos\03. Programming Fundamentals Mid Exam\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.genruntimeconfig.cache
