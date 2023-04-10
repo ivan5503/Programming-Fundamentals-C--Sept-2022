@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.exe
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.deps.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.runtimeconfig.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\bin\Debug\netcoreapp3.1\Sort Numbers2.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Sort Numbers2\obj\Debug\netcoreapp3.1\Sort Numbers2.genruntimeconfig.cache

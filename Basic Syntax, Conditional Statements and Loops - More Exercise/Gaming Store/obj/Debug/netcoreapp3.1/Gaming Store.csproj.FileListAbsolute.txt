@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.exe
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.deps.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.genruntimeconfig.cache

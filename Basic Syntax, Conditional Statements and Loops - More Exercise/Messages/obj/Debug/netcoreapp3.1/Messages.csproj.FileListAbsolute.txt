@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\IVO\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache
