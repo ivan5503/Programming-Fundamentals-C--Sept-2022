@@ -1,0 +1,13 @@
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.exe
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\bin\Debug\netcoreapp3.1\Decrypting Messages.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Decrypting Messages\obj\Debug\netcoreapp3.1\Decrypting Messages.genruntimeconfig.cache

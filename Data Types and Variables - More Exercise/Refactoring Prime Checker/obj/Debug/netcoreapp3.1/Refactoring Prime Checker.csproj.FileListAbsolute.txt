@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.exe
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\bin\Debug\netcoreapp3.1\Refactoring Prime Checker.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.genruntimeconfig.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Refactoring Prime Checker\obj\Debug\netcoreapp3.1\Refactoring Prime Checker.csproj.AssemblyReference.cache

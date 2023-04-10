@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.exe
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\bin\Debug\netcoreapp3.1\Balanced Brackets2.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Balanced Brackets2\obj\Debug\netcoreapp3.1\Balanced Brackets2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.exe
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.genruntimeconfig.cache

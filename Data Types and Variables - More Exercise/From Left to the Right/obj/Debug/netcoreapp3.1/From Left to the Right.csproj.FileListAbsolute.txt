@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.exe
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.deps.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.dll
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.pdb
+C:\Users\IVO\source\repos\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.genruntimeconfig.cache
