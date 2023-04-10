@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.exe
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.deps.json
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.json
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\IVO\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.genruntimeconfig.cache
