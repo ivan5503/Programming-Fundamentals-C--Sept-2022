@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.exe
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.deps.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

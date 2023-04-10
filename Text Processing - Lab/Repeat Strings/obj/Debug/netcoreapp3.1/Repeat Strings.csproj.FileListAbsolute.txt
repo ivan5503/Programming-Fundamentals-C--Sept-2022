@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.exe
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.deps.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.genruntimeconfig.cache

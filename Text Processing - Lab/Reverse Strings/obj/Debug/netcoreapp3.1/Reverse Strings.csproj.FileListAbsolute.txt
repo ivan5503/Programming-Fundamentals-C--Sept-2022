@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.exe
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.deps.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.genruntimeconfig.cache

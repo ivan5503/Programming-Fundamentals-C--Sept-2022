@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.exe
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.deps.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.runtimeconfig.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\bin\Debug\netcoreapp3.1\Digits, Letters and Others.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.dll
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.pdb
+C:\Users\IVO\source\repos\Text Processing  Lab\Digits, Letters and Others\obj\Debug\netcoreapp3.1\Digits, Letters and Others.genruntimeconfig.cache
