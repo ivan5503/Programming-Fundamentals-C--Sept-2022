@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.exe
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.deps.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfo.cs
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.genruntimeconfig.cache

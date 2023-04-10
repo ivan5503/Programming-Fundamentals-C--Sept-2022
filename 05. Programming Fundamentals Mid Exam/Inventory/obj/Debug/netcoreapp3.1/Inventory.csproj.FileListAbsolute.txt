@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\IVO\source\repos\05. Programming Fundamentals Mid Exam\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
