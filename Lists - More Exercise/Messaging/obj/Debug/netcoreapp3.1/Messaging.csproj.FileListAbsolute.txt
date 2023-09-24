@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.exe
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.deps.json
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\bin\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\IVO\source\repos\More Exercises Lists\Messaging\obj\Debug\netcoreapp3.1\Messaging.genruntimeconfig.cache
