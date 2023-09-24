@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.exe
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.deps.json
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.runtimeconfig.json
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.dll
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.pdb
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.AssemblyInfo.cs
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.dll
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.pdb
+C:\Users\IVO\source\repos\More Exercises Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.genruntimeconfig.cache
